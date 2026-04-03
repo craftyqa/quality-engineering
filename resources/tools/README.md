@@ -26,4 +26,3 @@ Quality engineering sits on whatever your product uses. Use this folder for **yo
 - **Cypress** docs — https://docs.cypress.io/
 - **k6** docs — https://k6.io/docs/
 
-_Customize this table for languages (Java, C#, JavaScript/TypeScript, Python, etc.)._
