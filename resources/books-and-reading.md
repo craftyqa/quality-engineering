@@ -23,8 +23,3 @@ Mix **testing craft**, **systems/reliability**, and **leadership**—Staff QE an
 
 - *Staff Engineer* — Will Larson — paths and expectations for Staff+ ICs (adapt mentally from “generic Staff” to quality domain).
 
-## Your backlog
-
-| Title | Author | Priority | Notes |
-|-------|--------|----------|--------|
-| | | | |

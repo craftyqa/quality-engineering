@@ -13,15 +13,7 @@ For **Staff IC** depth, favor courses on **architecture**, **systems design**, a
 
 ## Podcasts & shows (add your subscriptions)
 
-| Name | Focus | URL / feed |
-|------|--------|------------|
-| | Engineering leadership, org design | |
-| | Quality / testing strategy | |
 
 ## Conference talks
 
 Favorite talks age quickly; capture **title, speaker, year, and one takeaway** so you remember why you saved them.
-
-| Talk | Speaker | Year | Takeaway |
-|------|---------|------|----------|
-| | | | |

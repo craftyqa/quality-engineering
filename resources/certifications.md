@@ -17,9 +17,3 @@ Certifications are **optional** signals. Some employers value them; others care 
 ## Manager-adjacent (optional; market-dependent)
 
 Some Quality / Engineering Managers pursue **project management** or **agile facilitator** credentials (e.g., PMP, PMI-ACP, Scrum.org / Scrum Alliance paths). Value varies widely by company and region—track what **your** industry and target employers signal.
-
-## Tracking
-
-| Certification | Status | Target date | Notes |
-|---------------|--------|-------------|--------|
-| | | | |

@@ -1,6 +1,6 @@
 # Quality engineering — career & learning resources
 
-A personal collection of references for growing in **quality engineering leadership**: **Staff-level IC** quality engineering, **Quality / Engineering Manager**, and **QA Director** (or equivalent function leadership) paths. Skills, learning paths, tools, and community notes live under [`resources/`](resources/). Everything here is **starting material**—curate, replace, and extend it for your goals.
+A personal collection of references for growing in **quality engineering leadership**: **Staff-level IC** quality engineering, **Quality / Engineering Manager**, and **QA Director** (or equivalent function leadership) paths. Skills, learning paths, tools, and community notes live under [`resources/`](resources/).
 
 ## How to use this repo
 
@@ -20,7 +20,6 @@ A personal collection of references for growing in **quality engineering leaders
 | Courses, podcasts & video | [`resources/courses-and-media.md`](resources/courses-and-media.md) |
 | Tools & tech stack | [`resources/tools/`](resources/tools/) |
 | Testing practices | [`resources/practices/`](resources/practices/) — topic notes (e.g. [integration testing](resources/practices/integration-testing.md)) |
-| Staff QE, manager & director | [`resources/career-paths.md`](resources/career-paths.md) |
 | Communities & practice | [`resources/communities-and-practice.md`](resources/communities-and-practice.md) |
 | Open source | [`resources/open-source.md`](resources/open-source.md) |
 
