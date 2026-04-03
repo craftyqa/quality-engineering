@@ -18,7 +18,7 @@ A personal collection of references for growing in **quality engineering leaders
 | Certifications | [`resources/certifications.md`](resources/certifications.md) |
 | Books & long-form reading | [`resources/books-and-reading.md`](resources/books-and-reading.md) |
 | Courses, podcasts & video | [`resources/courses-and-media.md`](resources/courses-and-media.md) |
-| Tools & tech stack | [`resources/tools-and-tech-stack.md`](resources/tools-and-tech-stack.md) |
+| Tools & tech stack | [`resources/tools/`](resources/tools/) |
 | Testing practices | [`resources/practices/`](resources/practices/) — topic notes (e.g. [integration testing](resources/practices/integration-testing.md)) |
 | Staff QE, manager & director | [`resources/career-paths.md`](resources/career-paths.md) |
 | Communities & practice | [`resources/communities-and-practice.md`](resources/communities-and-practice.md) |

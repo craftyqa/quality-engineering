@@ -1,6 +1,6 @@
 # Tools & tech stack
 
-Quality engineering sits on whatever your product uses. This file is for **your** stack and tools worth knowing—not an exhaustive industry list.
+Quality engineering sits on whatever your product uses. Use this folder for **your** stack and tools worth knowing—not an exhaustive industry list. Add more files here (e.g. by team, environment, or vendor) when a single page is not enough.
 
 ## Categories to map to your job
 

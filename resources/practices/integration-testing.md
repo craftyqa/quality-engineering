@@ -49,7 +49,7 @@ _Add patterns and links to internal RFCs or example tests._
 
 ## Tooling
 
-Point to your concrete tools in [`../tools-and-tech-stack.md`](../tools-and-tech-stack.md); list only integration-specific choices here.
+Point to your concrete tools in [`../tools/README.md`](../tools/README.md); list only integration-specific choices here.
 
 | Concern | Tool / approach | Notes |
 |---------|-----------------|--------|
